@@ -1,3 +1,7 @@
-function miFuncion({
+function miFuncion(){
+
+}
+function name(params){
+
     
-})
+}
